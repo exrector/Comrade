@@ -1,0 +1,14 @@
+name: CLA Check
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  cla:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check CLA via cla-assistant
+        uses: cla-assistant/github-action@v2.3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
