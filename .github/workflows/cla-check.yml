@@ -6,6 +6,8 @@ on:
 
 jobs:
   cla:
+    permissions:
+      contents: read
     runs-on: ubuntu-latest
     steps:
       - name: Check CLA via cla-assistant
