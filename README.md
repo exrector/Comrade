@@ -1,4 +1,4 @@
-# AI DockKit Companion (Open Source)
+# "COMRADE" - AI DockKit Companion (Open Source)
 
 This is a non-commercial, AI-powered DockKit iOS robot interface.
 
