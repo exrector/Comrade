@@ -9,7 +9,7 @@ This project is licensed under CC BY-NC 4.0. See LICENSE for details.
 Contributions welcome! Make sure to read CONTRIBUTING.md and sign the CLA.
 
 ---
-**NO COMMERCIAL USE ALLOWED**
+# **NO COMMERCIAL USE ALLOWED**
 
 Многоуровневый ассистент с голосовым вводом, генерацией ответов и мультимодальными анимациями.
 
