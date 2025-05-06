@@ -1,0 +1,7 @@
+torch
+transformers
+fast-whisper
+fastspeech2
+requests
+websockets
+openai
