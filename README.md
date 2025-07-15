@@ -1,3 +1,6 @@
+
+<img width="924" height="794" alt="Снимок экрана 2025-05-05 в 00 01 18" src="https://github.com/user-attachments/assets/58342e02-4955-45d5-a03c-b98d602e6de9" />
+
 # "COMRADE" - AI DockKit Companion (Open Source)
 
 This is a non-commercial, AI-powered DockKit iOS robot interface.
